@@ -1,3 +1,4 @@
 x=4
 y=10
-print("vxv" + str())
+z=34
+print("vxv" + z + 2)
